@@ -57,7 +57,7 @@ Iniciando a Interface Web
 
 No terminal (sempre com o .venv ativado), certifique-se de que está na pasta raiz e execute o comando abaixo para subir o servidor do ADK:
 
-adk web --port 8000
+adk web
 
 
 Aceda à interface no seu navegador através da ligação: http://localhost:8000
