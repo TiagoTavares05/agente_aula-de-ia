@@ -48,7 +48,6 @@ pip install -r requirements.txt
 
 Crie um ficheiro chamado .env na raiz do projeto e adicione a sua chave do Google AI Studio:
 
-GOOGLE_API_KEY="SUA_CHAVE_API_AQUI"
 GEMINI_API_KEY="SUA_CHAVE_API_AQUI"
 
 
